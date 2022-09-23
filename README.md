@@ -5,8 +5,11 @@ This is the C++ parallel implementation of the Feed-forward Neural Network (FNN)
 We implement four state-of-the-art parallelization strategies for the low-dimensional matrix-multiplications in the FNN pipeline to evaluate the performance scaling potential on multicore processors:
 
 (1) Inner-wise multiplication
+
 (2) Outer-wise multiplication
+
 (3) Row-wise multiplication
+
 (4) Column-wise multiplication
 
 Running Instructions
