@@ -1,5 +1,12 @@
 # Feed-forward Neural Network (FNN) Pipeline With Parallel Low-Dimensional Matrix Multiplications
 
+<p align="center">
+  <img src="imgs/FNN.png" width="420">
+  <br />
+  <br />
+  </p>
+
+
 This is the C++ parallel implementation of the Feed-forward Neural Network (FNN) pipeline used in link prediction and node classification tasks in the ICCD 2022 paper "Towards Real-time Execution of Spatio-Temporal Graph Learning". The individual matrix kernels in the forward and backward propagation steps of FNN training are implemented for in-depth performance analysis. 
 
 We implement four state-of-the-art parallelization strategies for the low-dimensional matrix-multiplications in the FNN pipeline to evaluate the performance scaling potential on multicore processors:
