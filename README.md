@@ -1,7 +1,13 @@
 # Feed-forward Neural Network (FNN) Pipeline With Parallel Low-Dimensional Matrix Multiplications
 
 <p align="center">
-  <img src="FNN.png" width="700">
+  <img src="figures/FNN.png" width="700">
+  <br />
+  <br />
+  </p>
+  
+<p align="center">
+  <img src="figures/MM.png" width="300">
   <br />
   <br />
   </p>
