@@ -18,7 +18,6 @@ for node classification.
 
 Run
 
-`./a.out <threads> <mul_function>
+`./a.out <threads> <mul_function>`
 
-
-`<mul_function> : 0-Inner, 1-Row-wise, 2-Col-wise, 3-Outer`
+<mul_function> : 0-Inner, 1-Row-wise, 2-Col-wise, 3-Outer`
