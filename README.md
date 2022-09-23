@@ -7,7 +7,7 @@
   </p>
   
 <p align="center">
-  <img src="figures/MM.png" width="300">
+  <img src="figures/MM.png" width="1000">
   <br />
   <br />
   </p>
