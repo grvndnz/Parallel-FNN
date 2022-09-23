@@ -15,8 +15,8 @@ We implement four state-of-the-art parallelization strategies for the low-dimens
 Running Instructions
 -----------
 Compile the code using
-`g++ link_prediction.cpp -lpthread -O3` for link prediction or `g++ node_classification.cpp -lpthread -O3` 
-for node classification.
+`g++ link_prediction.cpp -lpthread -O3` for the link prediction FNN or `g++ node_classification.cpp -lpthread -O3` 
+for the node classification FNN.
 
 
 Run `./a.out <threads> <mul_function>`
